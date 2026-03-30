@@ -1,7 +1,8 @@
 <div align="center">
 
 # 🛒 Amazon Hub
-### *Shop, Share, and Connect: Your Hub for Social Shopping*
+
+### _Shop, Share, and Connect: Your Hub for Social Shopping_
 
 **A UX/UI design concept that integrates social media features into the Amazon ecosystem — giving users a community-driven shopping experience without leaving the platform.**
 
@@ -51,9 +52,9 @@ With the instability of X (formerly Twitter), millions of users began searching 
 
 **The opportunity:** Build a social shopping experience inside the Amazon ecosystem that captures displaced social media users while enhancing the existing shopping experience.
 
-> *Can we create a community in the Amazon app for users like X?*
-> *Can we advertise products through user-generated content, just like tweets?*
-> *Can we improve customer service through direct chat with vendors?*
+> _Can we create a community in the Amazon app for users like X?_
+> _Can we advertise products through user-generated content, just like tweets?_
+> _Can we improve customer service through direct chat with vendors?_
 
 ---
 
@@ -69,18 +70,23 @@ With the instability of X (formerly Twitter), millions of users began searching 
 ## ✨ Key Features Designed
 
 ### 📸 Stories for Product Advertising
+
 Short stories to advertise and showcase products — giving vendors a native way to reach users in a familiar, Instagram-style format.
 
 ### 📊 Community Polls
+
 Vote-based polls to gather customer opinions on products — driving engagement and helping vendors understand preferences.
 
 ### 👥 Community Page
+
 A dedicated community space where users can interact, share content, view product posts, and exchange feedback — all within Amazon.
 
 ### 💬 Vendor Chat
+
 Direct messaging with vendors or other users — making it easy to ask product questions, get support, and share feedback in real time.
 
 ### 🎨 Amazon Design Language
+
 Maintained Amazon's existing color theme and UI patterns throughout — ensuring user familiarity and reducing the learning curve for existing Amazon customers.
 
 ---
@@ -88,6 +94,7 @@ Maintained Amazon's existing color theme and UI patterns throughout — ensuring
 ## 🔄 Design Process
 
 ### 1. Design Sprint
+
 Conducted a team design sprint to analyze the problem space, starting with rapid competitive research — exploring both X and the Amazon app to identify gaps and opportunities.
 
 ### 2. Hand Sketches & Dot Voting
@@ -111,14 +118,15 @@ Built high-fidelity prototypes in Figma using the **snapshot method** for large 
 
 Conducted usability testing with **5 participants** across 4 core task flows:
 
-| Task | Flow |
-|---|---|
-| Task 1 | Navigate Stories and interact with Polls |
-| Task 2 | Navigate to Community Page and explore |
+| Task   | Flow                                      |
+| ------ | ----------------------------------------- |
+| Task 1 | Navigate Stories and interact with Polls  |
+| Task 2 | Navigate to Community Page and explore    |
 | Task 3 | Navigate Vendor Page and explore products |
-| Task 4 | Send a message via Chat |
+| Task 4 | Send a message via Chat                   |
 
 **Key feedback from participants:**
+
 - ✅ "Interesting feature to advertise products"
 - ✅ "Poll card design is great"
 - ✅ "Very appealing, easy navigation to product detail page"
@@ -133,11 +141,13 @@ Conducted usability testing with **5 participants** across 4 core task flows:
 ## 📊 Outcome Analysis
 
 ### Risks Identified
+
 - Users may find Twitter-like elements cluttered if poorly executed
 - Social features could feel like distractions if not meaningfully integrated
 - Competing platforms with stronger social features could pull users away
 
 ### Potential Impact for Amazon
+
 - Higher customer satisfaction through better vendor communication
 - More accurate product recommendations driven by social interactions
 - Increased conversion rates through community-generated content
@@ -155,11 +165,13 @@ Conducted usability testing with **5 participants** across 4 core task flows:
 ## 💭 Reflection
 
 **What went well**
+
 - Collaborative ideation in the design sprint led to a well-rounded solution
 - Using Amazon's snapshot method made it efficient to build large, complex UI components
 - Learned new Figma techniques and design sprint methodologies
 
 **What could be improved**
+
 - More creative and innovative features could be explored
 - Conduct additional user interviews outside the classroom with real Amazon users
 - Limited time meant not all designed pages were fully prototyped
@@ -184,4 +196,7 @@ Conducted usability testing with **5 participants** across 4 core task flows:
 
 <div align="center">
   <i>Designed as part of a UX Design Sprint — Spring 2024, Northeastern University</i>
+  <br/><br/>
+ 
+  Copyright © 2024 Prachi Navale · All rights reserved.
 </div>
